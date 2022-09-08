@@ -6,25 +6,25 @@
 ![Analog To-Do list Thumbnail](https://github.com/GermanHeim/analogue-todo-cad/blob/main/Renders/Thumbnail.png)
 
 A minimalistic to-do list based on [Ugmonk's Analog](https://ugmonk.com/pages/analog).
-This repo contains the file for this simple but effective analog to-do list.
+This repo contains the file for this simple but effective analogue to-do list.
 
 ## Models
 
-There are two main models of the card holder:
+There are two main models of the cardholder:
 ***Original:***
 ![Original model](https://github.com/GermanHeim/analogue-todo-cad/blob/main/Renders/Original.png)
 
 ***2-Layers:***
 ![2-Layers model](https://github.com/GermanHeim/analogue-todo-cad/blob/main/Renders/2-Layers.png)
-The 2-Layers model has, as it says, two layers, so you can save your already completed to-do lists.
+The 2-Layers model has, as it says, two layers so that you can save your already completed to-do lists.
 
-Both versions come with and without the logo. You can also edit the files to add your own logo.
+Both versions come with and without the logo. You can also edit the files to add your logo.
 ![Both models](https://github.com/GermanHeim/analogue-todo-cad/blob/main/Renders/Both_models.png)
 
 ## Dimensions
 
-The main dimensions are the following: 130 mm deep, 83 mm wide and 30 mm high, which works great with A7 sheets (74 mm x 105 mm). It is suggested to use thick paper so tha it can hold itself.
-You can see a ISO A4 Drawing of both models:
+The main dimensions are 130 mm deep, 83 mm wide, and 30 mm high.
+You can see an ISO A4 Drawing of both models:
 ![Original Drawing](https://github.com/GermanHeim/analogue-todo-cad/blob/main/Drawings/ISO_A4_Drawing.png)
 
 ![2-Layers Drawing](https://github.com/GermanHeim/analogue-todo-cad/blob/main/Drawings/ISO_A4_Drawing_2-Layers.png)
