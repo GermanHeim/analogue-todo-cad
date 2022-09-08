@@ -11,7 +11,7 @@ This repo contains the file for this simple but effective analog to-do list.
 ## Models
 
 There are two main models of the card holder:
-- ***Original***
+- ***Original:***
 ![Original model](https://github.com/GermanHeim/analog-todo-cad/blob/main/Renders/Original.png)
 
 - ***2-Layers:***
