@@ -25,7 +25,7 @@ Both versions come with and without the logo. You can also edit the files to add
 
 The main dimensions are 130 mm deep, 83 mm wide, and 30 mm high.
 You can see an ISO A4 Drawing of both models:
-![Original Drawing](https://github.com/GermanHeim/analogue-todo-cad/blob/main/Drawings/ISO_A4_Drawing.png)
+![Original Drawing](https://github.com/GermanHeim/analogue-todo-cad/blob/main/Drawings/ISO_A4%20_Drawing.png)
 
 ![2-Layers Drawing](https://github.com/GermanHeim/analogue-todo-cad/blob/main/Drawings/ISO_A4_Drawing_2-Layers.png)
 
