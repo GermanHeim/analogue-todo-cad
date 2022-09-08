@@ -12,11 +12,9 @@ This repo contains the file for this simple but effective analog to-do list.
 
 There are two main models of the card holder:
 - ***Original:***
-
 ![Original model](https://github.com/GermanHeim/analog-todo-cad/blob/main/Renders/Original.png)
 
 - ***2-Layers:***
-
 ![2-Layers model](https://github.com/GermanHeim/analog-todo-cad/blob/main/Renders/2-Layers.png)
 The 2-Layers model has, as it says, two layers, so you can save your already completed to-do lists.
 
