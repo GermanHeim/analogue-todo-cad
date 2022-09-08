@@ -1,4 +1,4 @@
-# Analog To-Do list
+# Analog To-Do List
 #### For A7 paper 
 
 ![Repo size](https://img.shields.io/github/repo-size/germanheim/analog-todo-cad)
