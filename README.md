@@ -33,6 +33,7 @@ Both drawings are available as PDFs inside the `Drawings` folder.
 
 ## Files
 All the files to 3D print or CNC are located inside the `Files` folder and are separated between the two models.
+The files are STL, STEP and 3DM (Rhino). If you need another type of file, you can export it from Onshape.
 
 ## Tech
 
